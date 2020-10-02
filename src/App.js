@@ -51,7 +51,7 @@ function App() {
   const person={
     name:'mark',
     email:'m2@gmail.com',
-    website:'fb.con'
+    website:'fb.com'
   }
   return (
     <div className="App">
