@@ -35,14 +35,14 @@ function App() {
   name:'mark',
   skills:[
     {name:'fb',type:'fontend'},
-    {name:'expressjs',type:'Baclend'}
+    {name:'expressjs',type:'Backend'}
   ]
 },
 {
   name:'manoj',
   skills:[
     {name:'reactjs',type:'fontend'},
-    {name:'nodejs',type:'Baclend'}
+    {name:'nodejs',type:'Backend'}
   ]
 },
   ];
